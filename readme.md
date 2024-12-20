@@ -1,4 +1,5 @@
 Дизайн бота для заказчика:
+
 ![image](https://github.com/user-attachments/assets/4c091d9f-452c-430b-b915-aa259fde80a7)
 
 ![image](https://github.com/user-attachments/assets/6723323e-eb6a-4e71-b704-816e805fb91f)
