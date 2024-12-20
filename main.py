@@ -101,7 +101,7 @@ async def website_handler(callback: CallbackQuery) -> None:
     await callback.message.answer("Наш сайт: bobopizza.com")
 
 @dp.callback_query(F.data.startswith("Main"))
-async def phone_number_handler(callback: CallbackQuery) -> None:
+async def main_menu_handler(callback: CallbackQuery) -> None:
     await callback.answer()
     await callback.message.answer_photo(caption=main_menu_message, photo=photo, reply_markup=main_menu_keyboard)
 
